@@ -1,0 +1,7 @@
+{
+    "name": "organicinternet/simpleconfigurableproducts",
+    "type": "magento-module",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
