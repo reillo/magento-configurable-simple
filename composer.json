@@ -1,6 +1,7 @@
 {
     "name": "organicinternet/simpleconfigurableproducts",
     "type": "magento-module",
+    "description": "Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices http://organicinternet.co.uk/ — ",
     "suggest": {
         "magento-hackathon/magento-composer-installer": "*"
     }
